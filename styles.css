@@ -1,0 +1,24 @@
+body{
+    background-color: aliceblue;
+}
+
+
+#page {
+    background-color: moccasin;
+    margin: 10px 300px;
+    text-align: center;
+}
+
+img {
+    height:400px;
+    width:auto;
+}
+
+.box {
+    border: 3px dotted black;
+    padding: 10px 8px;
+    margin: 20px;
+    text-align: center;
+    width: fit-content;
+}
+
